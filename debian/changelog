@@ -1,0 +1,40 @@
+node-d3-force (1.2.1-2) unstable; urgency=medium
+
+  * Reupload to unstable
+  * Make build reproducible
+  * Bump Standards-Version to 4.4.0 (no changes needed)
+
+ -- Pirate Praveen <praveen@debian.org>  Wed, 10 Jul 2019 00:31:51 +0530
+
+node-d3-force (1.2.1-1) experimental; urgency=medium
+
+  [ Jelmer Vernooĳ ]
+  * Use secure copyright file specification URI.
+
+  [ Pirate Praveen ]
+  * New upstream version 1.2.1
+  * Use salsa.debian.org in Vcs-* fields
+  * Bump Standards-Version to 4.3.0 (no changes needed)
+  * Switch to rollup.config.js, install ES module
+  * Switch to pkg-js-tools
+
+ -- Pirate Praveen <praveen@debian.org>  Wed, 19 Jun 2019 18:05:52 +0530
+
+node-d3-force (1.1.0-3) unstable; urgency=medium
+
+  * Build using rollup (webpack was used before rollup was available in main)
+  * Bump debhelper compat to 11
+
+ -- Pirate Praveen <praveen@debian.org>  Thu, 01 Mar 2018 17:41:50 +0530
+
+node-d3-force (1.1.0-2) unstable; urgency=medium
+
+  * Use webpack to build umd module like upstream
+
+ -- Pirate Praveen <praveen@debian.org>  Sun, 07 Jan 2018 12:54:43 +0530
+
+node-d3-force (1.1.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #878048)
+
+ -- Pirate Praveen <praveen@debian.org>  Mon, 09 Oct 2017 13:26:13 +0530
