@@ -4,7 +4,7 @@ Last-Update: 2019-06-20
 
 --- a/rollup.config.js
 +++ b/rollup.config.js
-@@ -9,7 +9,7 @@
+@@ -10,7 +10,7 @@
      format: "umd",
      indent: false,
      extend: true,
